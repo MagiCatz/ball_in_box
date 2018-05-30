@@ -1,8 +1,8 @@
 import math
 import ballinbox as bb
 import validate as val
-import matplotlib.pyplot as plt
-from matplotlib.patches import Ellipse,Circle
+# import matplotlib.pyplot as plt
+# from matplotlib.patches import Ellipse,Circle
 
 def area_sum(circles):
 	area = 0.0
