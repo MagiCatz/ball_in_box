@@ -12,7 +12,7 @@ def area_sum(circles):
 	return area
 
 if __name__ == '__main__':
-	num_of_circle = 5
+	num_of_circle = 7
 	blockers = [(0.5, 0.5)
 				,(0.5, -0.3)]
 	
